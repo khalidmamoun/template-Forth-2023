@@ -230,7 +230,6 @@ header nav .form i {
   background-blend-mode: overlay;
   background-color: rgba(0, 0, 0, 0.6);
   position: relative;
-  background-attachment: fixed;
 }
 
 .landing .text {
