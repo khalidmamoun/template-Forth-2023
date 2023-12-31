@@ -258,7 +258,7 @@ header nav .form i {
   }
 }
 .landing .text .content h2 {
-  font-size: 32px;
+  font-size: 20px;
   font-weight: normal;
   line-height: 1.5;
   margin-bottom: 20px;
@@ -267,6 +267,8 @@ header nav .form i {
 .landing .text .content p {
   font-size: 14px;
   line-height: 2;
+    color: #777;
+
 }
 .landing .change-background {
   position: absolute;
