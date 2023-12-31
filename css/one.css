@@ -227,6 +227,7 @@ header nav .form i {
   background-color: #1f2021;
   background-image: url("../image/new\ bulid.jpg");
   background-size: cover;
+  background-attachment: fixed;
   background-blend-mode: overlay;
   background-color: rgba(0, 0, 0, 0.6);
   position: relative;
