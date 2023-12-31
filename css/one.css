@@ -231,6 +231,11 @@ header nav .form i {
   background-color: rgba(0, 0, 0, 0.6);
   position: relative;
 }
+@media (max-width :767px) {
+  .landing {
+    background-position: right;
+  }
+}
 
 .landing .text {
   position: absolute;
