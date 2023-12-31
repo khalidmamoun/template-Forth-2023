@@ -253,7 +253,7 @@ header nav .form i {
 @media (max-width: 767px) {
   .landing .text {
     width: 100%;
-    background-color: none;
+    background-color: rgba(0, 0, 0, 0.178);
   }
   .landing .text .content {
     max-width: 100%;
